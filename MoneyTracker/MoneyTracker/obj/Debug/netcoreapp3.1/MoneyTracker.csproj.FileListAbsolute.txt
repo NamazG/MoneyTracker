@@ -1,0 +1,13 @@
+/Users/Nako/Projects/MoneyTracker/MoneyTracker/bin/Debug/netcoreapp3.1/MoneyTracker.deps.json
+/Users/Nako/Projects/MoneyTracker/MoneyTracker/bin/Debug/netcoreapp3.1/MoneyTracker.runtimeconfig.json
+/Users/Nako/Projects/MoneyTracker/MoneyTracker/bin/Debug/netcoreapp3.1/MoneyTracker.runtimeconfig.dev.json
+/Users/Nako/Projects/MoneyTracker/MoneyTracker/bin/Debug/netcoreapp3.1/MoneyTracker.dll
+/Users/Nako/Projects/MoneyTracker/MoneyTracker/bin/Debug/netcoreapp3.1/MoneyTracker.pdb
+/Users/Nako/Projects/MoneyTracker/MoneyTracker/obj/Debug/netcoreapp3.1/MoneyTracker.csproj.AssemblyReference.cache
+/Users/Nako/Projects/MoneyTracker/MoneyTracker/obj/Debug/netcoreapp3.1/MoneyTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Nako/Projects/MoneyTracker/MoneyTracker/obj/Debug/netcoreapp3.1/MoneyTracker.AssemblyInfoInputs.cache
+/Users/Nako/Projects/MoneyTracker/MoneyTracker/obj/Debug/netcoreapp3.1/MoneyTracker.AssemblyInfo.cs
+/Users/Nako/Projects/MoneyTracker/MoneyTracker/obj/Debug/netcoreapp3.1/MoneyTracker.csproj.CoreCompileInputs.cache
+/Users/Nako/Projects/MoneyTracker/MoneyTracker/obj/Debug/netcoreapp3.1/MoneyTracker.dll
+/Users/Nako/Projects/MoneyTracker/MoneyTracker/obj/Debug/netcoreapp3.1/MoneyTracker.pdb
+/Users/Nako/Projects/MoneyTracker/MoneyTracker/obj/Debug/netcoreapp3.1/MoneyTracker.genruntimeconfig.cache
